@@ -24,7 +24,7 @@ This guide explains how to start both the server and the client of the project s
 ✅ If everything is normal you will see the following messages:
 
    Server is running on port 5173
-   Connected to MongoDB
+   <br>Connected to MongoDB
     
 
 ### ⭐ Second: Installation and start the client side:
