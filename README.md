@@ -1,7 +1,7 @@
 # React-Exam-Project from Nikolay Todorov
 
 ## About the project
-This site was developed as part of my exam project at SoftUni. It features a fully functional back-end implemented with Node.js and a dynamic front-end built with Angular. It is based on a school activities platform. It allows logged-in users to explore, join, and manage activities. Users can also utilize a search feature to quickly find specific activities. The application emphasizes user interaction and provides a seamless experience for managing activities efficiently.
+This app was developed as part of my exam project at SoftUni. It features a fully functional back-end implemented with Node.js and a dynamic front-end built with React. It is based on a chat application. It allows logged-in users to chat with friends and family seemlessly with many themes you can choose from and the option to change details to your account.
 
 ### Here you can briefly see how it is: <br>
 
