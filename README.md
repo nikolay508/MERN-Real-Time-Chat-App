@@ -27,7 +27,7 @@ This guide explains how to start both the server and the client of the project s
    Connected to MongoDB
     
 
-### 🌇 Second: Installation and start the client side:
+### ⭐ Second: Installation and start the client side:
 
 1. Install dependencies for the client (SPA):
 
