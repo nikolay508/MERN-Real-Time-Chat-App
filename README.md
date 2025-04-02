@@ -41,8 +41,8 @@ If everything is normal you will see the following messages:
 If everything is normal you will see the following messages:
 
 VITE v6.2.1  ready in 821 ms
-    Local:   http://localhost:5173/
-    Network: use --host to expose
-    press h + enter to show help
+    <br>Local:   http://localhost:5173/
+    <br>Network: use --host to expose
+    <br>press h + enter to show help
 
 Ensure the REST API server is running before starting the SPA to enable proper integration.
