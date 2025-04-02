@@ -1,4 +1,4 @@
-# React-Exam-Project from Nikolay Todorov
+# Chat Application by Nikolay Todorov
 
 ## ℹ️ About the project
 This app was developed as part of my exam project at SoftUni. It features a fully functional back-end implemented with Node.js and a dynamic front-end built with React. It is based on a chat application. It allows logged-in users to chat with friends and family seemlessly with many themes you can choose from and the option to change details to your account.
