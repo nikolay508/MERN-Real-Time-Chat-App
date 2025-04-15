@@ -5,7 +5,7 @@
       "src": "front-end/package.json",
       "use": "@vercel/static-build",
       "config": {
-        "buildCommand": "cd front-end && npm install && npm run build",
+        "buildCommand": "cd front-end && npm run build",
         "outputDirectory": "front-end/dist"
       }
     }
@@ -17,6 +17,10 @@
         "cache-control": "public, max-age=31536000, immutable"
       },
       "continue": true
+    },
+    {
+      "src": "/",
+      "dest": "/index.html"
     },
     {
       "src": "/(.*)",
