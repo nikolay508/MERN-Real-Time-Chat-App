@@ -11,12 +11,8 @@
   ],
   "routes": [
     {
-      "src": "/assets/(.*)",
-      "dest": "front-end/dist/assets/$1"
-    },
-    {
       "src": "/(.*)",
-      "dest": "front-end/dist/index.html"
+      "dest": "front-end/dist/$1"
     }
   ]
 } 
