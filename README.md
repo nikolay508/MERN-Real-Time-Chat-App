@@ -1,7 +1,7 @@
 # Chat Application by Nikolay Todorov
 
 ## ℹ️ About the project
-This app was developed as part of my exam project at SoftUni. It features a fully functional back-end implemented with Node.js and a dynamic front-end built with React. It is based on a chat application. It allows logged-in users to chat with other users on the platform seemlessly with light and dark themes and the option to change your profile picture.
+This app was developed as part of my exam project at SoftUni. It features a fully functional back-end implemented with Node.js and a dynamic front-end built with React. It is based on a chat application. It allows logged-in users to chat with other users on the platform seemlessly with light and dark themes and the option to change your profile picture. * Using MongoDB and Render for hosting it. *
 
 ### Here you can see the main pages: <br>
 <img width="1470" alt="Screenshot 2025-04-02 at 22 59 01" src="https://github.com/user-attachments/assets/d85749fe-ddd7-4a2f-b96d-e5dd19617fa7" /><br>
