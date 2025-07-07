@@ -45,7 +45,7 @@ This guide explains how to start both the server and the client of the project s
 ✔️ If everything is normal you will see the following messages:
 
 VITE v6.2.1  ready in 821 ms
-    <br>Local:   http://localhost:5173/
+    <br>Local:   http://localhost:5173
     <br>Network: use --host to expose
     <br>press h + enter to show help
 
