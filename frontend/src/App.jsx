@@ -29,6 +29,7 @@ function App() {
   return (
     <div data-theme={theme}>
       <Navbar />
+      
       <Routes>
         <Route
           path="/"
